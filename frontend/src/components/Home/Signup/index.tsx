@@ -10,7 +10,7 @@ const Signup: React.FC = () => {
       <section className="flex">
         <aside className="w-1/2 hidden md:flex items-center justify-center">
           <img
-            src="/login-pic.png"
+            src="/otp-img.jpg"
             alt="welcome"
             className="object-contain"
           ></img>
